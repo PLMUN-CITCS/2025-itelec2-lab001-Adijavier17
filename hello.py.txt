@@ -1,6 +1,0 @@
-print("Hello world")
-
-print("Hello world!")
-print("Name: [Adrian Javier]")
-print("Course: [BSIT]")
-print("Interests in programming: [JAVA]")

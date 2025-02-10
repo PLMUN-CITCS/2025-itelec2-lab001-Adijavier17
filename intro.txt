@@ -1,3 +1,3 @@
-Name: [Adrian Javier]
+Name: [Adi D. Javier]
 Course: [BSIT]
-Interests in programming: [JAVA]
+Interests in programming: [Python]
